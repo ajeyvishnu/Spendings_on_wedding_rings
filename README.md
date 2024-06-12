@@ -22,7 +22,8 @@ The dataset provides information on the share of income spent on engagement ring
 
 ## Tableau Public Link
 
-You can view the interactive dashboard on Tableau Public: [Tableau Public Link]
+You can view the interactive dashboard on Tableau Public: [Love is Priceless!](https://public.tableau.com/views/LoveisPricelessMOM2024Week24/RadialChartDash?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 ## Snapshot of the Dashboard
 
